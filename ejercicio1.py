@@ -1,8 +1,8 @@
 # Se defiene variable nombre
-nombre = "Laureano"
+nombre = input("Ingrese su nombre: ")
 # Se defiene variable apellido
-apellido = "Escoca"
+apellido = input("Ingrese su apellido: ")
 # Se defiene variable materia
-materia = "Programación 1"
+materia = input("Ingrese su materia: ")
 # Se imprime mensaje por consola
 print(f"Hola soy {nombre} {apellido} alumno de la materia {materia}")
